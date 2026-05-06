@@ -1,8 +1,7 @@
 # 🚀 Bidaya AI: Intelligent Business Plan Generator
 ### *Multi-Agent RAG Architecture for the Moroccan Entrepreneurial Ecosystem*
 
-**Bidaya AI** is a professional SaaS platform designed to empower Moroccan entrepreneurs. By leveraging **Generative AI** and **Multi-Agent Systems**, the platform transforms raw business ideas into structured, strategic, and localized business plans ready for investment.
-
+**Bidaya AI** is a specialized web platform designed to empower Moroccan entrepreneurs. By leveraging Generative AI and Multi-Agent Systems, the platform transforms raw business ideas into structured, strategic, and localized business plans ready for investment.
 ---
 
 ## 🏗️ System Architecture

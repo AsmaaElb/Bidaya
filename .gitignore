@@ -1,11 +1,22 @@
-# Python
-backend/venv/
+# --- Backend (FastAPI / Python) ---
+backend/.venv/
 backend/__pycache__/
 backend/.env
+backend/*.pyc
+backend/.pytest_cache/
 
-# Node
+# --- Frontend (Next.js / Node) ---
 frontend/node_modules/
 frontend/.next/
+frontend/out/
+frontend/.env.local
+frontend/.env*.local
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
 
-# System
+# --- IDE & System ---
+.vscode/
 .DS_Store
+Thumbs.db
+*.swp
